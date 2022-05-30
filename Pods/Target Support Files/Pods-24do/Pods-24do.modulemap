@@ -1,0 +1,6 @@
+framework module Pods_24do {
+  umbrella header "Pods-24do-umbrella.h"
+
+  export *
+  module * { export * }
+}
